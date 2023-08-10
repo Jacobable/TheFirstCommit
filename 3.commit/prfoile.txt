@@ -1,2 +1,2 @@
-email :
-gitID :
+email :fedor8@naver.com
+gitID :Jacobable
